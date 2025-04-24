@@ -1,3 +1,20 @@
 .modal {
     background: #c6d0ff7a;
 }
+.label-as-div {
+    display: block; 
+    background-color: #f8f9fa;
+    padding: 8px 12px;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+    font-weight: bold;
+    color: #495057;
+    margin-bottom: 8px; 
+    margin-right: 0;
+    border-radius: 4px 0 0 4px;
+}
+.no-padding {
+    padding-left: 0;
+    padding-right: 0;
+}
+
